@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamu544
 - 👀 I’m interested in ... Sofware Development
-- 🌱 I’m currently learning ...Andrdoid Advanced, Kotlin, Flutter
+- 🌱 I’m currently learning ...Andrdoid Advanced, Kotlin
 - 💞️ I’m looking to collaborate on ...Android projects
 - 📫 How to reach me ...menziwa.odwa@gmail.com
 
